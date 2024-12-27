@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-12-26T11:41:28.314Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-12-26T11:30:48.314Z"
+    },
+    {
+      "id": "3",
+      "description": "Landing Page",
+      "type": "income",
+      "category": "Venda",
+      "price": 4000,
+      "createdAt": "2024-12-24T13:49:28.314Z"
+    },
+    {
+      "id": "4",
+      "description": "Aliança",
+      "type": "outcome",
+      "category": "Casamento",
+      "price": 2200,
+      "createdAt": "2024-12-20T09:30:48.314Z"
+    },
+    {
+      "id": "5",
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-12-26T16:43:29.765Z"
+    },
+    {
+      "id": "934e",
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-12-26T17:06:42.728Z"
+    },
+    {
+      "id": "0955",
+      "description": "Relógio",
+      "price": 531,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2024-12-26T17:47:32.230Z"
+    }
+  ]
+}
